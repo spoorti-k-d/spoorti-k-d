@@ -934,7 +934,7 @@ Git → GitHub → VS Code → Testing → Deployment
   <code>STATUS:</code> 🟢 <b>OPEN TO LEARN • BUILD • COLLABORATE</b>
 </p>
 
-<h2 align="center">📊 GITHUB ACTIVITY</h2>
+<!-- <h2 align="center">📊 GITHUB ACTIVITY</h2>
 
 
 <p align="center">
@@ -951,7 +951,7 @@ Git → GitHub → VS Code → Testing → Deployment
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
+</p> -->
 
 
 
